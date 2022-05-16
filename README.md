@@ -29,4 +29,4 @@ for further instructions on how to execute the same you can find them at the fol
 
 ## The output looks as below ## 
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
