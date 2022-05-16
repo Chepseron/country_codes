@@ -1,6 +1,5 @@
 com\amon\demo\DemoApplication.class
 com\amon\demo\web\CustomerMvcController.class
-com\amon\demo\web\CustomerMvcController$HoldingObject.class
 com\amon\demo\model\CustomerEntity.class
 com\amon\demo\service\CustomerService.class
 com\amon\demo\exception\RecordNotFoundException.class
