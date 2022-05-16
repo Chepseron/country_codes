@@ -6,7 +6,7 @@ The application works with the following tools
 * Maven 
 * Docker 19.03
 
-#How to execute the project
+#How to execute the project#
 ##Using the IDE(netbeans)##
 
 * Clone the project from https://github.com/Chepseron/country_codes.git
