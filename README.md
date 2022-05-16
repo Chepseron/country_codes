@@ -6,8 +6,8 @@ The application works with the following tools
 * Maven 
 * Docker 19.03
 
-#How to execute the project#
-##Using the IDE(netbeans)##
+# How to execute the project #
+## Using the IDE(netbeans) ##
 
 * Clone the project from https://github.com/Chepseron/country_codes.git
 * Ensure you have java 8 installed, if not then follow the instructions at https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html
@@ -16,7 +16,7 @@ The application works with the following tools
 * Once you have installed the dependencies, right click on the project and then choose Run.
 * On your browser type in http://localhost:8080 
 
-##Using docker##
+## Using docker ##
 
 navigate to the project directory, with the filename Dockerfile and execute the following to build an image 
 docker build −t <image−name> .
