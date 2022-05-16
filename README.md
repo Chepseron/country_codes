@@ -25,3 +25,8 @@ execute the following to run the docker container
 docker run <image−name>
 
 for further instructions on how to execute the same you can find them at the following link https://www.tutorialspoint.com/working-with-java-inside-docker-container
+
+
+## The output looks as below ## 
+
+![Screenshot](screenshot.png)
