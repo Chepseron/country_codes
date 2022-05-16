@@ -9,6 +9,8 @@ The application works with the following tools
 # How to execute the project #
 ## Using the IDE(netbeans) ##
 
+Ensure you have tomcat 7,docker 19.03 and java 8 installed
+
 * Clone the project from https://github.com/Chepseron/country_codes.git
 * Ensure you have java 8 installed, if not then follow the instructions at https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html
 * You can open your project with any IDE of your choice, Eclipse, Netbeans, Intellij etc
