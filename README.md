@@ -21,9 +21,11 @@ Ensure you have tomcat 7,docker 19.03 and java 8 installed
 ## Using docker ##
 
 navigate to the project directory, with the filename Dockerfile and execute the following to build an image 
+<br/>
 docker build −t <image−name> .
-
+<br/>
 execute the following to run the docker container 
+<br/>
 docker run <image−name>
 
 for further instructions on how to execute the same you can find them at the following link https://www.tutorialspoint.com/working-with-java-inside-docker-container
