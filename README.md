@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0bf3ab186aa6e2934bc845a55f8cbe409218d24a
 # country_codes
 
 The application works with the following tools 
@@ -30,3 +33,7 @@ for further instructions on how to execute the same you can find them at the fol
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0bf3ab186aa6e2934bc845a55f8cbe409218d24a
