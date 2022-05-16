@@ -1,0 +1,5 @@
+Cameroon | Country code: +237 | Regex = \(237\)\ ?[2368]\d{7,8}$
+Ethiopia | Country code: +251 | Regex = \(251\)\ ?[1-59]\d{8}$
+Morocco | Country code: +212 | Regex = \(212\)\ ?[5-9]\d{8}$
+Mozambique | Country code: +258 | Regex = \(258\)\ ?[28]\d{7,8}$
+Uganda | Country code: +256 | Regex = \(256\)\ ?\d{9}$
