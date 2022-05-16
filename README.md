@@ -1,5 +1,7 @@
 # country_codes
 
+This is a single page application in Thymeleaf Spring that uses (SQLite 3) to list and categorize country phone numbers. Phone numbers are be categorized by country, state (valid or not valid), country code and number.The page renders a list of all phone numbers available in the DB.<br/> 
+
 The application works with the following tools 
 * Tomcat 7
 * Java 8
